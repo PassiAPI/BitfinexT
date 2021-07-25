@@ -2,10 +2,10 @@ import twitter
 
 
 
-api = twitter.Api(consumer_key='zoHbdVLaNkKZfPS2lkdhN5e8y',
-                      consumer_secret='gInKM4NYn5VVafYNQyKWnLzGbsHkTJLOQU7c4aXDfee6Isy6Rs',
-                      access_token_key='1402658560132145152-Mz1jPRJdiEfpZMoPzW0YEMa3Wg2n0x',
-                      access_token_secret='YIUiDTJWrasD0cmh6x2JsyrEZmrPu9D2W4qBmkLXEYJfM')
+api = twitter.Api(consumer_key='',
+                      consumer_secret='',
+                      access_token_key='',
+                      access_token_secret='')
 
 
 def tweet(text):
